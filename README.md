@@ -26,3 +26,9 @@ For Sellers
 >Intuitive Item Listing: Streamlined multi-step form for adding new harvests with plucked dates, fresh periods, and logistics details.
 
 >Refund Management: Robust seller-side interface for reviewing refund requests and processing reversals via original payment methods, store credit, or digital wallets.
+
+
+Trust & Verification
+>Same-day Image Verification using Metadata Validation
+>Secure Payment Options
+>Transparent Buyer-Seller Interaction
